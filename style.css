@@ -1,5 +1,5 @@
 body {
-  background-image: url("/img/bg.jpg"); /* Replace with your image file's path */
+  background-image: url("img/bg.jpg"); /* Replace with your image file's path */
   background-size: cover;
   background-position: center;
 }
